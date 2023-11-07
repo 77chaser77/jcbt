@@ -3,7 +3,7 @@
 import React from 'react'
 
 const Posts = () => {
-  return <div>Posts</div>
+  return <div>test123</div>
 }
 
 export default Posts
